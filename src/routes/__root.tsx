@@ -1,4 +1,4 @@
-import * as React from 'react'
+import _React from 'react'
 import { Link, Outlet, createRootRoute } from '@tanstack/react-router'
 import { TanStackRouterDevtools } from '@tanstack/router-devtools'
 
